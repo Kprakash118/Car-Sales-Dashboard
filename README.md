@@ -27,16 +27,26 @@ YOY Growth in Cars Sold
 Difference between YTD Cars Sold and PTYD Cars Sold
 
 Problem Statement 2: Charts Requirement
+
 YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
+
 YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
+
 YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.
+
 YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
+
 Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
+
 Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
+
+
+https://github.com/Kprakash118/Car-Sales-Dashboard/blob/main/overview.png
+
 
 https://github.com/Kprakash118/Car-Sales-Dashboard/blob/main/image.png
 
-<img width="1314" height="735" alt="image" src="https://github.com/user-attachments/assets/17f2be4b-eb10-4344-889f-4ee9f97009e0" />
+
 
 
 
